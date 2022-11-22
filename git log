@@ -1,0 +1,19 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 3094f94..a6857ae 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,10 +8,12 @@[m [mdeneme[m
+     <li>Lorem, ipsum dolor.</li>[m
+     <li>Qui, ex deserunt?</li>[m
+     <li>Lorem, ipsum dolor.</li>[m
+[32m+[m[32m    deneme[m
+     <li>Expedita, rerum. Mollitia.</li>[m
+     <li>Ab, quia laborum!</li>[m
+     <li>Culpa, delectus eaque.</li>[m
+     <li>Officia, cupiditate ipsum.</li>[m
+     <li>Repellat, exercitationem eius.</li>[m
+ </ul>[m
+[31m-Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat velit iusto esse illo, numquam animi ea ipsum perferendis nihil, fugiat aspernatur ex pariatur exercitationem, possimus veniam temporibus incidunt accusantium id.[m
+\ No newline at end of file[m
+[32m+[m[32mLorem ipsum dolor sit amet consectetur adipisicing elit. Repellat velit iusto esse illo, numquam animi ea ipsum perferendis nihil, fugiat aspernatur ex pariatur exercitationem, possimus veniam temporibus incidunt accusantium id.[m
+[32m+[m[32mdeneme[m
